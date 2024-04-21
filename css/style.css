@@ -9,8 +9,8 @@ body {
 .layout_padding {
   padding: 90px 0;
 }
-.layout_padding_contact_details {
-  padding: 50px 0;
+.layout_padding_contact_details{
+  padding: 50px 0;;
 }
 .layout_padding2 {
   padding: 75px 0;
@@ -985,16 +985,16 @@ a:focus {
   color: #000000;
 }
 
-.contact-btn {
-  display: inline-block;
-  padding: 10px 45px;
-  background-color: #00bbf0;
-  color: #ffffff;
-  border-radius: 0;
-  -webkit-transition: all 0.3s;
-  transition: all 0.3s;
-  border: none;
-  margin-top: 10px;
+.contact-btn{
+    display: inline-block;
+    padding: 10px 45px;
+    background-color: #00bbf0;
+    color: #ffffff;
+    border-radius: 0;
+    -webkit-transition: all 0.3s;
+    transition: all 0.3s;
+    border: none;
+    margin-top: 10px;
 }
 .contact-btn:hover {
   background-color: #007fa4;

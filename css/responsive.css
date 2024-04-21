@@ -42,11 +42,7 @@
     margin-bottom: 45px;
   }
 }
-@media (min-width: 788px) {
-  .service_section .box {
-    height: 306px;
-  }
-}
+
 
 @media (max-width: 576px) {
   .header_section .header_top .contact_nav a span {
@@ -102,6 +98,17 @@
   .service_section .box .img-box {
     justify-content: flex-start;
     margin-bottom: 15px;
+  }
+}
+@media (min-width: 768px) and (max-width: 999px) {
+  .service_section .box {
+    height: 406px;
+  }
+}
+
+@media (min-width: 768px) and (max-width: 999px) {
+  .info_contact .contact_link_box a.footer-email {
+    display: inline-flex;
   }
 }
 
