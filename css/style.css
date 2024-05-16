@@ -1014,4 +1014,28 @@ a:focus {
   background-color: #0787ab;
   border-color: #0787ab;
 }
+
+.view-details{
+  display: inline-block;
+    padding: 10px 45px;
+    background-color: #00bbf0;
+    color: #ffffff;
+    border-radius: 0px;
+    -webkit-transition: all 0.3s;
+    transition: all 0.3s;
+    border: none;
+    margin-top: 15px;
+
+}
+.view-details:hover {
+  background-color: #007fa4;
+  border: none;
+}
+
+
+.btn-box{
+  display: flex;
+  gap: 11px;
+
+}
 /*# sourceMappingURL=style.css.map */
